@@ -397,7 +397,7 @@
 						</dict>
 					</dict>
 					<key>end</key>
-					<string>\*/\n?</string>
+					<string>\*/</string>
 					<key>name</key>
 					<string>comment.block.source.vala</string>
 				</dict>
